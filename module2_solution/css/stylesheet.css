@@ -38,6 +38,9 @@ h1 {
 	float: right;
 }
 /* Custom specific properties */
+.colorgeneric {
+	background-color: #e0e2e9;
+}
 .colors2 {
 	color: #ECEDF2;
 	background-color: #126D71;
